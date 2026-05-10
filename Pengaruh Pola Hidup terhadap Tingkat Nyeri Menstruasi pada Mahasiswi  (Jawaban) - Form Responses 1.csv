@@ -1,0 +1,151 @@
+Timestamp,1. Apakah Anda mengalami menstruasi?  ,2. Usia Anda:  ,3. Apakah Anda pernah mengalami nyeri saat menstruasi?  ,4. Seberapa tinggi tingkat nyeri yang Anda rasakan saat menstruasi?  ,6. Seberapa sering Anda mengalami nyeri menstruasi?  ,5. Berapa lama biasanya nyeri menstruasi berlangsung?  ,7. Saya mengonsumsi makanan bergizi seimbang setiap hari.  ,8. Seberapa sering Anda mengonsumsi fast food?  ,9. Saya mengonsumsi buah dan sayur setiap hari.  ,"10. Menurut Anda, apakah pola makan berpengaruh terhadap nyeri menstruasi? Jelaskan singkat.  ",11. Berapa rata-rata durasi tidur Anda per hari?  ,12. Saya memiliki kualitas tidur yang baik.  ,  13. Saat menstruasi durasi tidur saya berkurang,14. Seberapa baik kualitas tidur Anda selama menstruasi?  ,15. Seberapa sering Anda berolahraga dalam seminggu?  ,16. Saya rutin melakukan olahraga ringan.  ,17. Olahraga membantu mengurangi nyeri menstruasi.  ,18. Jenis olahraga apa yang biasanya Anda lakukan?,19. Pola hidup saya mempengaruhi nyeri menstruasi.  ,20. Saya berusaha menjaga pola hidup sehat untuk mengurangi nyeri.,"21. Menurut Anda, faktor paling berpengaruh terhadap nyeri menstruasi adalah:  "
+6/5/2026 11:35,Ya,< 18 tahun,Pernah,3,Kadang-kadang,1-2 hari,5,Kadang-kadang,5,"ya, karena bisa menyeimbangkan hormon",> 8 jam,3,3,3,1-2 kali,3,3,Yoga,2,3,Kualitas tidur
+6/5/2026 11:43,Ya,18-20 tahun,Pernah,4,Sering,1-2 hari,3,Kadang-kadang,4,"Iyaa, klo makan tidak benar perutnya lebih sakit",5-6 jam,4,2,2,1-2 kali,2,5,Jogging,5,5,Olahraga
+6/5/2026 11:53,Ya,18-20 tahun,Pernah,4,Kadang-kadang,1-2 hari,3,Sering,3,"Ya, pola makan sangat berpengaruh karena konsumsi makanan anti-inflamasi dapat meredakan kram, sementara makanan tinggi gula, garam, dan kafein justru dapat memperparah peradangan serta nyeri saat menstruasi",5-6 jam,3,2,3,Tidak pernah,3,3,Jogging,4,4,Pola makan
+6/5/2026 11:53,Ya,> 18 tahun,Pernah,3,Jarang,1-2 hari,4,Kadang-kadang,3,"ya, karena zat” yg dikandung di dalam makanan",5-6 jam,2,3,3,1-2 kali,2,3,Jogging,4,3,Pola makan
+6/5/2026 11:56,Ya,18-20 tahun,Pernah,3,Setiap menstruasi,1-2 hari,4,Sering,3,"berpengaruh. pola makan mnjadi point penting dalam pengaturan metabolisme tubuh. pola makan juga akan memengaruhi cara kerja hormon, sehingga bisa menyebabkan nyeri saat menstruasi.",7-8 jam,3,3,3,1-2 kali,3,4,Jogging,4,4,Pola makan
+6/5/2026 11:59,Ya,> 18 tahun,Pernah,3,Kadang-kadang,1-2 hari,5,Kadang-kadang,3,"Iya, pola makan ngaruh ke nyeri haid.",7-8 jam,4,1,3,1-2 kali,3,5,Jogging,5,5,Pola makan
+6/5/2026 12:05,Ya,18-20 tahun,Pernah,3,Kadang-kadang,> 1 hari,3,Sering,2,"Iya, pola makan berpengaruh terhadap nyeri menstruasi. Makanan kurang sehat seperti terlalu banyak gula, kafein, atau makanan berminyak bisa bikin nyeri haid makin terasa. Sedangkan makanan bergizi dapat membantu mengurangi nyeri. ",5-6 jam,4,1,4,1-2 kali,2,3,Jogging,4,5,Pola makan
+6/5/2026 12:06,Ya,18-20 tahun,Pernah,3,Jarang,1-2 hari,3,Jarang,4,"Ya, kalo dari pengalaman saya kalo kebanyakan makan fast food menstruasi jadi terlambat",> 5 jam,2,2,4,3-4 kali,3,3,Lainnya,4,3,Pola makan
+6/5/2026 12:06,Tidak,18-20 tahun,Pernah,3,Kadang-kadang,< 4 hari,3,Kadang-kadang,4,yaa ssgt berpengaarruh,7-8 jam,3,1,5,1-2 kali,3,1,Bersepeda,3,3,Pola makan
+6/5/2026 12:10,Ya,> 18 tahun,Pernah,3,Sering,1-2 hari,2,Kadang-kadang,2,"Menurut saya iya, karena pola makan bisa memengaruhi kondisi tubuh saat menstruasi. Kalau makan tidak teratur atau sering konsumsi makanan kurang sehat, nyeri haid bisa terasa lebih sakit. Sebaliknya, kalau makan makanan yang lebih sehat, biasanya tubuh jadi lebih nyaman.",5-6 jam,2,2,4,Tidak pernah,2,2,Lainnya,3,3,Pola makan
+6/5/2026 12:11,Ya,> 18 tahun,Pernah,3,Kadang-kadang,1-2 hari,3,Kadang-kadang,3,y,5-6 jam,4,3,3,< 4 kali,5,5,Pilates,3,5,Pola makan
+6/5/2026 12:16,Ya,18-20 tahun,Pernah,5,Setiap menstruasi,1-2 hari,3,Kadang-kadang,5,"bisa iya bisa tidak, karena piti gym saya hidup sangat sehat dan olahraga teratur namun beliau tetap nyeri haid ",5-6 jam,3,3,3,1-2 kali,3,3,GYM,2,2,Pola makan
+6/5/2026 12:18,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,4,Sering,4,"Ya, karena pola makan yang sehat juga menjaga siklus menstruasi",5-6 jam,3,3,3,1-2 kali,3,3,Jogging,3,3,Pola makan
+6/5/2026 12:19,Ya,18-20 tahun,Pernah,1,Setiap menstruasi,1-2 hari,3,Sering,2,tidak,7-8 jam,2,3,3,Tidak pernah,1,4,Lainnya,3,4,Kualitas tidur
+6/5/2026 12:32,Ya,18-20 tahun,Pernah,4,Sering,3-4 hari,3,Kadang-kadang,4,"Berpengaruh, karena makanan fast food tidak mengandung banyak vitamin yang baik untuk tubuh",5-6 jam,3,2,4,1-2 kali,3,4,Jogging,4,4,Kualitas tidur
+6/5/2026 12:33,Ya,18-20 tahun,Pernah,4,Sering,1-2 hari,3,Kadang-kadang,4,Iya pola makan mempengaruhi nyeri menstruasi ,5-6 jam,3,3,3,1-2 kali,2,2,Jogging,3,4,Pola makan
+6/5/2026 13:06,Ya,18-20 tahun,Pernah,5,Setiap menstruasi,3-4 hari,3,Sering,4,iya,5-6 jam,3,2,3,Tidak pernah,1,1,Lainnya,2,4,Pola makan
+6/5/2026 13:06,Ya,18-20 tahun,Pernah,4,Setiap menstruasi,1-2 hari,3,Kadang-kadang,3,"Iya, ngaruh
+
+Pola makan bisa bikin nyeri haid makin parah atau lebih ringan. Kebanyakan gula, gorengan, kafein, sama makanan asin bisa memicu peradangan dan bikin rahim lebih kenceng kontraksinya. Jadi kramnya kerasa lebih sakit. 
+Sebaliknya, makanan tinggi omega-3, magnesium, zat besi, sama sayur buah bisa bantu ngurangin nyerinya karena sifatnya anti-inflamasi dan bantu otot rahim lebih rileks.
+",5-6 jam,2,3,4,1-2 kali,2,4,Lainnya,4,5,Pola makan
+6/5/2026 13:09,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,4,Kadang-kadang,4,iya,5-6 jam,3,4,2,1-2 kali,2,3,Lainnya,3,3,Pola makan
+6/5/2026 13:15,Ya,18-20 tahun,Pernah,5,Kadang-kadang,1-2 hari,3,Sering,3,Iya ,7-8 jam,4,3,4,Tidak pernah,1,3,Lainnya,3,3,Semuanya
+6/5/2026 13:26,Ya,18-20 tahun,Pernah,2,Kadang-kadang,3-4 hari,5,Jarang,3,"iya, karenapola makan sangat berpengaruh terhadap intensitas nyeri menstruasi.",7-8 jam,5,2,5,1-2 kali,3,4,Badminton,3,4,Kualitas tidur
+6/5/2026 13:41,Ya,18-20 tahun,Pernah,5,Setiap menstruasi,1-2 hari,3,Kadang-kadang,3,Menurut saya tidak berpengaruh ,7-8 jam,3,4,2,3-4 kali,4,3,GYM,1,4,Kualitas tidur
+6/5/2026 13:50,Ya,> 18 tahun,Tidak Pernah,1,Tidak Pernah,Tidak Pernah,4,Jarang,4,mungkin iya,> 5 jam,4,2,4,1-2 kali,3,2,Lainnya,4,5,Pola makan
+6/5/2026 14:07,Ya,18-20 tahun,Pernah,3,Setiap menstruasi,1-2 hari,3,Kadang-kadang,3,tidak,5-6 jam,3,3,3,1-2 kali,2,1,Lainnya,1,1,Kualitas tidur
+6/5/2026 14:34,Ya,18-20 tahun,Pernah,3,Kadang-kadang,> 1 hari,2,Sering,3,Iya karna jika nutrisi cukup maka hormon hormon pun berjalan normal dan hormon yang membantu saat nyeri menstruasi bisa bekerja lebih baik sehingga nyeri saat menstruasi bisa berkurang,5-6 jam,2,3,3,Tidak pernah,1,4,Lainnya,4,3,Pola makan
+6/5/2026 14:48,Ya,18-20 tahun,Pernah,2,Jarang,> 1 hari,3,Kadang-kadang,4,Tidak,7-8 jam,4,1,4,1-2 kali,4,4,Lainnya,3,3,Pola makan
+6/5/2026 14:50,Ya,21-23 tahun,Pernah,1,Sering,1-2 hari,2,Sering,2,Tidak,7-8 jam,5,5,5,1-2 kali,5,5,Lainnya,1,5,Kualitas tidur
+6/5/2026 14:57,Ya,18-20 tahun,Pernah,1,Jarang,1-2 hari,4,Kadang-kadang,5,"pola makan sangat berpengaruh terhadap kesehatan, baik untuk pertumbuhan, pencernaan dan siklus lainnya seperti haid, karena dapat menstabilkan hormon,   mencegah anemia, menjaga energi, mengurangi nyeri dan penyebab mood swing.",5-6 jam,2,2,4,1-2 kali,3,3,Bersepeda,4,4,Pola makan
+6/5/2026 15:08,Ya,18-20 tahun,Tidak Pernah,1,Tidak Pernah,Tidak Pernah,5,Kadang-kadang,3,Menurut saya tidak karenha tergantung imunitas seseorang .,> 5 jam,4,2,5,3-4 kali,5,5,Jogging,5,5,Olahraga
+6/5/2026 15:17,Ya,21-23 tahun,Pernah,3,Kadang-kadang,1-2 hari,3,Kadang-kadang,2,"Yah sangat berpengaruh! karna pola makan yang tidak seimbang bisa memengaruhi keseimbangan hormon  wanita ,seperti lonjakan insulin yang tinggi bisa gangu estrogen dan progesteron yang  menyebabkan nyeri makin parah.
+",7-8 jam,4,2,4,1-2 kali,2,5,GYM,5,5,Pola makan
+6/5/2026 16:01,Ya,18-20 tahun,Pernah,1,Setiap menstruasi,> 1 hari,1,Sangat sering,1,Menurut saya pola makan tida berpengaruh saat nyeri menstruasi,5-6 jam,1,2,2,1-2 kali,1,1,Jogging,1,1,"Makanan pedas, minum air dingin."
+6/5/2026 16:02,Ya,> 18 tahun,Pernah,4,Kadang-kadang,1-2 hari,4,Kadang-kadang,4,"pengaruh, karena ada beberapa makanan yg menyebabkan nyeri menstruasi",5-6 jam,3,3,4,1-2 kali,3,3,Lainnya,2,4,Pola makan
+6/5/2026 16:04,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,3,Kadang-kadang,3,"berpengaruh, karena kalau pola makannya teratur kita tuh jadi ga ngerasa nyeri menstruasi ..",7-8 jam,3,1,3,1-2 kali,3,4,Jogging,3,5,Olahraga
+6/5/2026 16:13,Ya,21-23 tahun,Pernah,4,Sering,1-2 hari,3,Sering,3,keknya ngaruh si kak tapi gk tau juga. tergantung mood,5-6 jam,4,2,3,1-2 kali,4,4,Badminton,4,4,Kualitas tidur
+6/5/2026 17:00,Ya,18-20 tahun,Pernah,4,Setiap menstruasi,1-2 hari,5,Kadang-kadang,4,ya berpengaruh,7-8 jam,4,3,4,Tidak pernah,2,3,Lainnya,3,5,Pola makan
+6/5/2026 17:02,Ya,> 18 tahun,Pernah,5,Setiap menstruasi,> 1 hari,4,Sering,5,"Iya sangatlah berpengaruh karena 
+Makanan itu menjaga pola makanan kita jadi sangatlah penting",5-6 jam,5,5,4,Tidak pernah,1,5,Badminton,1,1,Olahraga
+6/5/2026 17:07,Ya,18-20 tahun,Pernah,4,Setiap menstruasi,1-2 hari,3,Sering,3,"ya, berpengaruh karena kurang makan sehat sehingga tubuh lebih sensitif terhadap nyeri",5-6 jam,3,4,2,1-2 kali,3,3,Lainnya,4,4,Pola makan
+6/5/2026 17:24,Ya,18-20 tahun,Pernah,4,Kadang-kadang,1-2 hari,4,Sering,3,Pengaruh Karena bisa mengembalikan mood dan sedikit mengurangi nyeri,5-6 jam,3,4,2,1-2 kali,3,2,Jogging,5,4,Pola makan yang buruk jam tidur yang ngawur dan pola hidup yang kurang baik
+6/5/2026 17:33,Ya,18-20 tahun,Pernah,4,Kadang-kadang,1-2 hari,4,Sering,3,Berpengaruh karna terkadang makan makanan yang kurang bergizi ,7-8 jam,3,3,3,1-2 kali,4,4,Pilates,3,5,Pola makan
+6/5/2026 17:34,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,2,Sering,3,"ya, karena ya aja ",5-6 jam,2,3,3,1-2 kali,2,2,Lainnya,3,3,Olahraga
+6/5/2026 17:47,Ya,18-20 tahun,Pernah,3,Kadang-kadang,> 1 hari,5,Kadang-kadang,3,Menurut saya makanan pedas ,7-8 jam,4,1,3,1-2 kali,3,5,Lainnya,2,4,Pola makan
+6/5/2026 17:58,Ya,> 18 tahun,Pernah,4,Kadang-kadang,1-2 hari,5,Sering,3,"Ya, menurut saya pola makn juga berpengaruh terhadap nyeri menstruasi apalagi jika sering mengkonsumsi makanan tidak sehat.",7-8 jam,5,3,3,Tidak pernah,3,3,Lainnya,5,5,Pola makan
+6/5/2026 18:04,Ya,18-20 tahun,Pernah,5,Setiap menstruasi,1-2 hari,3,Kadang-kadang,2,Iya,> 5 jam,3,3,3,1-2 kali,3,3,Jogging,3,3,Pola makan
+6/5/2026 18:10,Ya,18-20 tahun,Pernah,3,Setiap menstruasi,1-2 hari,2,Jarang,2,Iya. Karena berpengaruh pada kestabilan hormon ,5-6 jam,5,2,5,3-4 kali,3,3,GYM,4,4,Kualitas tidur
+6/5/2026 18:12,Ya,18-20 tahun,Pernah,5,Setiap menstruasi,1-2 hari,5,Sering,5,"menyesuaikan mood lagi pingin nya apa, hehe",> 5 jam,3,3,3,1-2 kali,3,5,Jogging,3,5,Pola makan
+6/5/2026 18:25,Ya,18-20 tahun,Tidak Pernah,3,Jarang,> 1 hari,3,Kadang-kadang,3,"pola makan berpengaruh karena makanan yang tidak sehat bisa memperparah nyeri menstruasi, sedangkan makanan sehat bisa membantu menguranginya.",5-6 jam,4,1,5,1-2 kali,3,3,Bersepeda,3,4,Pola makan
+6/5/2026 18:26,Ya,18-20 tahun,Pernah,1,Sering,1-2 hari,4,Jarang,4,"Ya, pola makan berpengaruh terhadap nyeri menstruasi, akan tetapi bukan penentu utama. Nyeri menstruasi berbeda-beda tergantung pada kondisi masing-masing seperti hormon, sensitivitas terhadap nyeri, kondisi rahim itu sendiri.",7-8 jam,4,3,4,1-2 kali,4,3,Lainnya,4,5,Stress dan kualitas tidur
+6/5/2026 18:32,Ya,18-20 tahun,Pernah,2,Kadang-kadang,3-4 hari,3,Jarang,3,"Ya, karena untuk menjaga keseimbangan hormon ",5-6 jam,3,4,2,1-2 kali,3,3,Bersepeda,5,4,Pola makan
+6/5/2026 18:33,Ya,> 18 tahun,Pernah,2,Setiap menstruasi,1-2 hari,3,Sering,5,tidak berpengaruh,5-6 jam,2,2,2,Tidak pernah,1,2,Jogging,3,3,hormon 
+6/5/2026 18:43,Ya,21-23 tahun,Pernah,3,Kadang-kadang,1-2 hari,3,Kadang-kadang,4,"Berpengaruh. Karena gizi yang di dapatkan 
+",7-8 jam,3,2,3,1-2 kali,2,3,Jogging,4,4,Pola makan
+6/5/2026 19:20,Ya,> 18 tahun,Pernah,4,Kadang-kadang,1-2 hari,5,Kadang-kadang,4,"Ya, mempengaruhi. Setiap makanan yang masuk ke dalam tubuh mempengaruhi sistem yang bekerja.",< 8 jam,2,4,3,1-2 kali,3,4,Jogging,5,5,Kualitas tidur
+6/5/2026 19:40,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,3,Sering,2,iyaa berpengaruh ,5-6 jam,4,1,4,3-4 kali,4,3,Lainnya,4,1,Pola makan
+6/5/2026 19:41,Ya,> 18 tahun,Pernah,3,Kadang-kadang,1-2 hari,2,Kadang-kadang,2,"ya, pola makan sangat berpengaruh terhadap tingkat nyeri menstruasi karena kalau kebanyakan makan junk food, kopi, atau yg manis', nyeri haid bisa makin parah karna bikin peradangan di badan naik",5-6 jam,4,3,3,1-2 kali,2,3,Jogging,2,4,Pola makan
+6/5/2026 19:41,Ya,18-20 tahun,Pernah,2,Setiap menstruasi,1-2 hari,3,Sering,3,"Iya, karena apa yang kita konsumsi memengaruhi tubuh ",5-6 jam,4,2,4,1-2 kali,5,5,GYM,5,5,Pola makan
+6/5/2026 19:50,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,3,Kadang-kadang,3,"berpengaruh, biasanya klo makanannya kurang sehat (fast food) itu minim gizi, jdi menyebabkan timbulnya nyeri saat mens",5-6 jam,3,1,2,Tidak pernah,2,3,Jogging,5,4,Pola makan
+6/5/2026 19:53,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,3,Kadang-kadang,5,Ya,5-6 jam,2,1,2,1-2 kali,2,1,Jogging,1,1,Pola makan
+6/5/2026 19:54,Ya,18-20 tahun,Pernah,5,Jarang,1-2 hari,3,Sering,3,"berpengaruh, karena kandungan yang terdapat dalam makanan dapat mempengaruhi nyeri tidaknya saat menstruasi",5-6 jam,2,2,4,3-4 kali,3,3,Lainnya,5,5,Pola makan
+6/5/2026 19:58,Ya,18-20 tahun,Pernah,2,Jarang,1-2 hari,3,Kadang-kadang,2,Tidak,5-6 jam,4,1,4,1-2 kali,2,2,Lainnya,2,3,Kualitas tidur
+6/5/2026 20:02,Ya,18-20 tahun,Pernah,4,Kadang-kadang,1-2 hari,3,Kadang-kadang,3,iya,5-6 jam,3,3,3,1-2 kali,3,3,Jogging,1,3,Pola makan
+6/5/2026 20:03,Ya,18-20 tahun,Pernah,4,Sering,1-2 hari,3,Sering,3,"ya, karena sumber segala sesuatu yang dibutuhkan dalam tubuh berasal dari makanan",5-6 jam,3,4,4,1-2 kali,3,3,Jogging,4,4,Pola makan
+6/5/2026 20:05,Ya,18-20 tahun,Pernah,2,Jarang,> 1 hari,3,Kadang-kadang,2,"tidak, karena saya jarang nyeri saat haid",5-6 jam,3,1,2,1-2 kali,2,3,Lainnya,2,2,Kualitas tidur
+6/5/2026 20:09,Ya,> 18 tahun,Pernah,4,Setiap menstruasi,1-2 hari,3,Jarang,4,"Makanan tinggi lemak, gula, dan kafein dapat memicu peradangan dan memperparah kram. Sebaliknya, konsumsi makanan bergizi seperti sayur, buah, serta yang kaya magnesium dan omega-3 dapat membantu mengurangi nyeri. Jadi, pola makan sehat bisa membantu meredakan nyeri menstruasi.",7-8 jam,3,5,2,1-2 kali,3,3,Yoga,3,4,Pola makan
+6/5/2026 20:10,Ya,18-20 tahun,Pernah,5,Kadang-kadang,1-2 hari,3,Kadang-kadang,4,"Ya, mengonsumsi lebih banyak sayuran hijau, buah-buahan, dan air putih, serta mengurangi asupan kafein, garam, dan gula selama seminggu sebelum menstruasi biasanya dapat membantu mengurangi gejala nyeri secara bertahap.",5-6 jam,2,3,3,1-2 kali,3,2,Jogging,4,4,Pola makan
+6/5/2026 20:10,Ya,18-20 tahun,Pernah,4,Sering,1-2 hari,3,Sering,2,"Ya, karena pola makan memengaruhi keseimbangan hormon dan peradangan dalam tubuh.",5-6 jam,4,2,4,1-2 kali,2,4,Jogging,5,5,Pola makan
+6/5/2026 20:12,Ya,18-20 tahun,Pernah,4,Setiap menstruasi,3-4 hari,4,Kadang-kadang,3,Ya,7-8 jam,3,3,3,1-2 kali,3,4,Jogging,3,3,Pola makan
+6/5/2026 20:14,Ya,> 18 tahun,Pernah,4,Sering,1-2 hari,3,Sering,4,ya pola makan berpengaruh terhadap nyeri pada saat mentruasi,5-6 jam,4,3,3,Tidak pernah,2,4,Lainnya,4,3,Kualitas tidur
+6/5/2026 20:15,Ya,< 23 tahun,Pernah,3,Jarang,> 1 hari,4,Jarang,4,"*Iya, berpengaruh banget.* Pola makan bisa bikin nyeri haid jadi lebih ringan atau malah makin parah.
+
+Nyeri haid atau _dismenore_ terjadi karena rahim kontraksi buat ngeluarin dinding rahim. Kontraksi ini dipicu hormon prostaglandin. Nah, makanan yang kamu makan ngaruh ke produksi prostaglandin & peradangan di tubuh.
+
+### *Makanan yang Bikin Nyeri Haid Makin Parah*
+Ini makanan yang ningkatin peradangan & prostaglandin jahat:
+
+1. *Tinggi gula & tepung putih*
+   Donat, boba, kue, nasi putih kebanyakan → gula darah naik turun, bikin peradangan. Prostaglandin jadi over.
+
+2. *Gorengan & lemak jenuh/trans*
+   Ayam krispi, kentang goreng, margarin → lemak trans ningkatin prostaglandin PGF2α yang bikin kontraksi rahim makin kenceng = kram parah.
+
+3. *Daging merah berlebih*
+   Sapi/kambing banyak asam arakidonat, bahan baku prostaglandin. Kalau kebanyakan bisa bikin nyeri.
+
+4. *Kafein & alkohol*
+   Kopi, teh kental, soda, bir → bikin pembuluh darah menyempit, aliran darah ke rahim berkurang, kram makin sakit. Kafein juga bikin cemas & susah tidur pas haid.
+
+5. *Makanan asin banget*
+   Mie instan, keripik, makanan kaleng → bikin retensi air, perut kembung, badan makin nggak enak.
+
+### *Makanan yang Bantu Ngurangin Nyeri Haid*
+Ini makanan anti-inflamasi yang nurunin prostaglandin & bantu otot rahim rileks:
+
+1. *Omega-3* → Salmon, sarden, chia seed, kenari. Studi nunjukin omega-3 bisa nurunin intensitas kram sama kayak ibuprofen.
+2. *Magnesium* → Bayam, alpukat, pisang, dark chocolate, kacang almond. Magnesium bantu otot rahim nggak gampang kejang.
+3. *Kalsium + Vitamin D* → Susu, yogurt, keju, tahu, brokoli. Kurang kalsium bikin kram makin parah.
+4. *Vitamin B1, B6, E* → Telur, oatmeal, biji bunga matahari, alpukat. Bantu regulasi hormon & kurangin kembung.
+5. *Jahe & kunyit* → Anti-nyeri alami. Seduh jahe anget bisa seefektif obat anti-nyeri buat dismenore ringan-sedang.
+6. *Buah & sayur tinggi air* → Semangka, timun, seledri. Lawan kembung & dehidrasi.
+7. *Air putih* → Dehidrasi bikin kram makin sakit. Minimal 2L/hari pas haid.
+
+### *Tips pola makan 1 minggu sebelum & saat haid*
+1. *H-7 haid*: Kurangi kopi, gorengan, gula. Perbanyak sayur hijau + ikan.
+2. *Pas haid hari 1-3*: Makan hangat-hangat. Sup ayam jahe, oatmeal pisang, teh jahe. Hindari es & makanan pemicu kembung.
+3. *Ngemil*: Ganti keripik → kacang almond/dark chocolate 70%. Ganti boba → infused water timun.
+4. *Jangan skip makan*: Perut kosong bikin mual + kram makin kerasa.
+
+*Catatan*: Kalau nyeri haid sampai pingsan, muntah, atau ganggu aktivitas banget tiap bulan, itu bisa tanda endometriosis/adenomiosis",7-8 jam,4,1,4,3-4 kali,2,3,Lainnya,1,4,Hormon
+6/5/2026 20:36,Ya,18-20 tahun,Pernah,4,Setiap menstruasi,1-2 hari,3,Sering,3,iya berpengaruh,5-6 jam,3,2,3,1-2 kali,2,3,Lainnya,1,2,Kualitas tidur
+6/5/2026 20:48,Ya,18-20 tahun,Pernah,5,Setiap menstruasi,1-2 hari,3,Sering,3,"ya, karena jika saya makan junkfood nyeri pada perut saya lebih sakit ",5-6 jam,3,2,3,1-2 kali,2,2,Jogging,3,3,Pola makan
+6/5/2026 20:56,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,3,Kadang-kadang,3,Tidak ,5-6 jam,2,2,3,Tidak pernah,3,3,Lainnya,3,3,Olahraga
+6/5/2026 22:17,Ya,18-20 tahun,Pernah,2,Jarang,> 1 hari,4,Jarang,3,"Kalo menurut aku tidak ya, karena nyeri menstruasi memang hal yang biasa terjadi di alamin setiap perempuan. Mau makan makanan bergizi atau tidak itu gak berpengaruh terhadap nyeri haid ",< 8 jam,5,1,5,1-2 kali,3,4,Pilates,1,1,Daya tahan tubuh 
+6/5/2026 22:25,Ya,18-20 tahun,Pernah,4,Setiap menstruasi,3-4 hari,2,Kadang-kadang,3,"berpengaruh terkadang, kalau gak banyak makan seblak dan kawan kawannya sih gak begitu sakit walaupun tetep sakit tapi skala sakitnya berkurang lah yhh",5-6 jam,4,3,3,Tidak pernah,5,3,Jogging,4,4,Olahraga
+6/5/2026 22:30,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,3,Sering,3,ya berpengaruh,5-6 jam,3,3,3,1-2 kali,3,4,Jogging,4,4,Kualitas tidur
+6/5/2026 22:34,Ya,21-23 tahun,Pernah,5,Setiap menstruasi,3-4 hari,3,Jarang,2,Ya. Sesuai pengalaman pribadi dulu ga kontrol pola makan jdnya bb pun naik membuat siklus haid ga teratur dan ketika haid jd nyeri. Klo sekarang pola makan teratur dan olahraga juga mens teratur nyeri nya juga ga terlalu ,5-6 jam,5,5,2,3-4 kali,3,3,Jogging,5,4,Semua jawaban benar dan 1 lagi tambahan itu faktor hormonal juga
+6/5/2026 22:58,Ya,18-20 tahun,Pernah,4,Kadang-kadang,3-4 hari,4,Sangat sering,4,"ya sangat berpengaruh, jika pola makanmu tidak teratur memakan makanan yag dapat menghambat menstruasi",5-6 jam,3,3,3,1-2 kali,2,3,Badminton,3,3,Kualitas tidur
+6/5/2026 23:52,Ya,18-20 tahun,Pernah,5,Setiap menstruasi,1-2 hari,5,Kadang-kadang,4,"Sangat tidak berpengaruh ,mau kita makan sehatpun tiap haid ttp sakit 😌",5-6 jam,3,3,3,1-2 kali,4,2,Lainnya,1,4,Tidak ada
+7/5/2026 6:08,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,4,Sering,4,ngaruh bgt kak,5-6 jam,3,2,3,1-2 kali,3,3,Lainnya,3,4,Pola makan
+7/5/2026 6:32,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,3,Kadang-kadang,3,"Berpengaruh, karena diet yang salah, kekurangan nutrisi, atau konsumsi berlebihan makanan tidak sehat (tinggi gula/lemak) dapat mengganggu keseimbangan hormon dalam tubuh.",5-6 jam,3,2,3,Tidak pernah,2,4,Jogging,3,3,Kualitas tidur
+7/5/2026 9:05,Ya,18-20 tahun,Pernah,4,Setiap menstruasi,1-2 hari,3,Sering,4,"menurutku iya, krn setiap aku sering mengkonsumsi makanan yg terlalu asin dan manis atau air yg terlalu dingin membuat perut lebih nyeri lg",5-6 jam,3,3,3,1-2 kali,3,4,Lainnya,4,4,Pola makan
+7/5/2026 11:27,Ya,18-20 tahun,Pernah,5,Setiap menstruasi,3-4 hari,2,Sering,1,Nggak ,5-6 jam,5,5,5,Tidak pernah,5,5,Jogging,5,5,Kualitas tidur
+7/5/2026 13:19,Ya,18-20 tahun,Pernah,5,Setiap menstruasi,1-2 hari,5,Kadang-kadang,4,"Ya, pola makan dapat berpengaruh terhadap nyeri menstruasi atau dismenore. Konsumsi makanan bergizi seperti sayur, buah, ikan, dan makanan yang mengandung magnesium serta omega-3 dapat membantu mengurangi peradangan dan kram saat menstruasi. Sebaliknya, terlalu banyak makanan cepat saji, minuman berkafein, makanan tinggi gula, dan berlemak dapat memperparah nyeri menstruasi karena dapat meningkatkan peradangan dan ketidakseimbangan hormon. Selain itu, kurang minum air juga bisa membuat tubuh lebih mudah mengalami kram.",7-8 jam,4,3,3,3-4 kali,4,3,GYM,4,4,Pola makan
+7/5/2026 15:11,Ya,> 18 tahun,Pernah,3,Kadang-kadang,> 1 hari,4,Kadang-kadang,3,"ya berpengaruh, karena apa yg kita makan juga akan mempengaruhi imun dalam tubuh kita, imun itu yg menjadi daya tahan kita saat menghadapi menstruasi, saya mengalaminya sendiri, ketika saya mengonsumsi makanan yg tidak sehat, menstruasi saya akan lebih sakit dari pada biasanya.",5-6 jam,3,5,4,1-2 kali,2,2,Jogging,5,5,Pola makan
+7/5/2026 15:18,Ya,> 18 tahun,Tidak Pernah,1,Tidak Pernah,Tidak Pernah,3,Kadang-kadang,4,"ya, agar hormon seimbang",7-8 jam,5,1,4,1-2 kali,2,3,Badminton,1,4,Pola makan
+7/5/2026 15:24,Ya,> 18 tahun,Pernah,4,Setiap menstruasi,3-4 hari,3,Kadang-kadang,3,iya ,7-8 jam,3,3,3,3-4 kali,5,3,Jogging,2,3,Pola makan
+7/5/2026 15:37,Ya,> 18 tahun,Pernah,3,Setiap menstruasi,1-2 hari,1,Kadang-kadang,2,"berpengaruh, karena gizi makanan ngaruh ke hormon",7-8 jam,4,1,5,1-2 kali,2,3,Badminton,4,2,Pola makan
+7/5/2026 15:38,Tidak,18-20 tahun,Pernah,2,Kadang-kadang,> 1 hari,4,Kadang-kadang,3,Tidak,> 5 jam,5,1,5,Tidak pernah,1,5,Yoga,1,5,Pola makan
+7/5/2026 15:42,Ya,> 18 tahun,Pernah,2,Jarang,< 4 hari,4,Jarang,5,"Tidak, karena makanan tidak berpengaruh pada menstruasi",5-6 jam,1,5,4,Tidak pernah,2,5,Badminton,3,5,Kualitas tidur
+7/5/2026 15:44,Ya,18-20 tahun,Pernah,5,Kadang-kadang,> 1 hari,4,Kadang-kadang,4,"ya,pola makan sangat berpengaruh terhadap siklus dan kesehatan menstruasi ,karena nutrisi yang tepat membantu menjaga keseimbangan hormon",7-8 jam,3,4,3,1-2 kali,3,3,Lainnya,3,3,Pola makan
+7/5/2026 15:45,Ya,> 18 tahun,Pernah,4,Setiap menstruasi,1-2 hari,4,Kadang-kadang,3,sangat karena memengaruhi kondisi rahim jika terlalu sering makan fast food biasanya setiap haid jadi lebih berasa nyeri ,5-6 jam,3,2,4,1-2 kali,4,2,Lainnya,5,5,tingkat strees dan pola makan
+7/5/2026 15:51,Ya,> 18 tahun,Pernah,2,Kadang-kadang,1-2 hari,4,Kadang-kadang,3,"Sayuran hijau, buah-buahan, dan air putih membantu melancarkan aliran darah dan mengurangi kembung saat menstruasi",7-8 jam,4,3,4,1-2 kali,3,3,Jogging,2,3,Kualitas tidur
+7/5/2026 15:55,Ya,18-20 tahun,Pernah,3,Setiap menstruasi,> 1 hari,2,Kadang-kadang,2,Yes,> 5 jam,3,2,3,Tidak pernah,2,4,Lainnya,3,2,Pola makan
+7/5/2026 16:08,Ya,18-20 tahun,Pernah,3,Kadang-kadang,3-4 hari,3,Jarang,4,"Iya, Makanan sehat dapat membantu mengurangi nyeri, sedangkan makanan kurang sehat bisa membuat kram terasa lebih sakit.",5-6 jam,3,2,3,1-2 kali,5,5,Lainnya,5,5,Kualitas tidur
+7/5/2026 16:43,Ya,18-20 tahun,Pernah,1,Setiap menstruasi,> 1 hari,5,Sangat sering,1,F,7-8 jam,1,1,1,Tidak pernah,1,1,Jogging,5,2,Pola makan
+7/5/2026 17:15,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,2,Sering,2,Ya,5-6 jam,1,3,3,1-2 kali,2,3,Jogging,3,3,Kualitas tidur
+7/5/2026 19:17,Ya,> 18 tahun,Pernah,3,Kadang-kadang,1-2 hari,4,Kadang-kadang,4,"Ya, sangat berpengaruh karna bila kurang serat bnyk penyakit yang lebih parah dari pada nyeri, apalagi kurang air putih bisa menyebabkan sakit yg fatal karna 70% bagian dari tubuh kita adalah air jadi wajib bnget air dan serat( buah dan sayur) yang mengandung mineral untuk melancarkan keluarnya darah ",5-6 jam,4,3,4,3-4 kali,4,5,Jogging,2,5,Pola makan
+7/5/2026 19:24,Tidak,18-20 tahun,Pernah,4,Sering,1-2 hari,3,Kadang-kadang,3,"iya berpengaruh, terlebih makan makanan pedas bisa menambah rasa nyeri",5-6 jam,3,4,2,1-2 kali,2,3,Lainnya,5,5,Kualitas tidur
+7/5/2026 19:39,Ya,18-20 tahun,Pernah,2,Kadang-kadang,1-2 hari,3,Sering,3,Iya,5-6 jam,3,2,4,1-2 kali,3,5,Jogging,3,4,Pola makan
+7/5/2026 19:47,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,1,Kadang-kadang,3,"Menurut saya sangat berpengaruh. Saat menstruasi, saya mulai berhenti makan seafood, makanan mengandung micin, mie, dll. Lebih sering minum air hangat. ",5-6 jam,3,1,4,1-2 kali,2,5,Jogging,1,2,Pola makan
+7/5/2026 19:59,Ya,18-20 tahun,Pernah,2,Jarang,1-2 hari,3,Jarang,3,"Tidak, menurut saya lebih dipengaruhi mood dan pikiran ",> 5 jam,3,1,3,Tidak pernah,2,1,Lainnya,1,1,Pikiran dan mood
+7/5/2026 20:41,Ya,18-20 tahun,Pernah,3,Sering,1-2 hari,5,Kadang-kadang,3,"berpengaruh, karena makanan yang sehat tnpa olahan mempengaruhi tubuh supaya kuat dan lancar pencernaannya",7-8 jam,4,4,2,1-2 kali,1,2,Jogging,3,5,hormon 
+7/5/2026 22:35,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,3,Jarang,3,"Sebaliknya, makanan kaya omega-3 (ikan salmon, sarden), magnesium (sayuran hijau, kacang-kacangan), kalsium (susu, tahu), dan vitamin E bersifat anti-inflamasi dan dapat membantu mengendurkan otot rahim, sehingga mengurangi intensitas nyeri.
+",5-6 jam,2,3,2,1-2 kali,3,3,Yoga,2,4,Kualitas tidur
+8/5/2026 6:50,Ya,18-20 tahun,Pernah,3,Kadang-kadang,1-2 hari,3,Jarang,3,"Berpengaruh, karena pola makan yang sehat dan bergizi dapat membuat menstruasi lancar dan mengurangi rasa nyeri",7-8 jam,4,1,4,1-2 kali,3,3,Lainnya,5,3,Pola makan
+8/5/2026 15:29,Ya,> 18 tahun,Pernah,3,Jarang,> 1 hari,5,Kadang-kadang,3,"iya, karena pola makan yang tidak sehat jga bisa berpengaruh terhadap menstruasi kita",7-8 jam,4,1,4,3-4 kali,4,3,Jogging,3,5,Pola makan
